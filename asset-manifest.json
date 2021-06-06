@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/foodhub/static/css/main.8323a838.chunk.css",
+    "main.js": "/foodhub/static/js/main.bac454f0.chunk.js",
+    "main.js.map": "/foodhub/static/js/main.bac454f0.chunk.js.map",
+    "runtime-main.js": "/foodhub/static/js/runtime-main.815b3fe7.js",
+    "runtime-main.js.map": "/foodhub/static/js/runtime-main.815b3fe7.js.map",
+    "static/css/2.fb64acb3.chunk.css": "/foodhub/static/css/2.fb64acb3.chunk.css",
+    "static/js/2.dc89701e.chunk.js": "/foodhub/static/js/2.dc89701e.chunk.js",
+    "static/js/2.dc89701e.chunk.js.map": "/foodhub/static/js/2.dc89701e.chunk.js.map",
+    "index.html": "/foodhub/index.html",
+    "static/css/2.fb64acb3.chunk.css.map": "/foodhub/static/css/2.fb64acb3.chunk.css.map",
+    "static/css/main.8323a838.chunk.css.map": "/foodhub/static/css/main.8323a838.chunk.css.map",
+    "static/js/2.dc89701e.chunk.js.LICENSE.txt": "/foodhub/static/js/2.dc89701e.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/foodhub/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815b3fe7.js",
+    "static/css/2.fb64acb3.chunk.css",
+    "static/js/2.dc89701e.chunk.js",
+    "static/css/main.8323a838.chunk.css",
+    "static/js/main.bac454f0.chunk.js"
+  ]
+}
